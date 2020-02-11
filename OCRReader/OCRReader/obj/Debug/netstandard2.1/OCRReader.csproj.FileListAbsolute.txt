@@ -1,0 +1,13 @@
+C:\Users\gurul\source\repos\OCRReader\OCRReader\bin\Debug\netstandard2.1\OCRReader.deps.json
+C:\Users\gurul\source\repos\OCRReader\OCRReader\bin\Debug\netstandard2.1\OCRReader.dll
+C:\Users\gurul\source\repos\OCRReader\OCRReader\bin\Debug\netstandard2.1\OCRReader.pdb
+C:\Users\gurul\source\repos\OCRReader\OCRReader\bin\Debug\netstandard2.1\System.Runtime.WindowsRuntime.dll
+C:\Users\gurul\source\repos\OCRReader\OCRReader\bin\Debug\netstandard2.1\Windows.Foundation.FoundationContract.winmd
+C:\Users\gurul\source\repos\OCRReader\OCRReader\bin\Debug\netstandard2.1\Windows.winmd
+C:\Users\gurul\source\repos\OCRReader\OCRReader\bin\Debug\netstandard2.1\System.Runtime.WindowsRuntime.xml
+C:\Users\gurul\source\repos\OCRReader\OCRReader\obj\Debug\netstandard2.1\OCRReader.csprojAssemblyReference.cache
+C:\Users\gurul\source\repos\OCRReader\OCRReader\obj\Debug\netstandard2.1\OCRReader.AssemblyInfoInputs.cache
+C:\Users\gurul\source\repos\OCRReader\OCRReader\obj\Debug\netstandard2.1\OCRReader.AssemblyInfo.cs
+C:\Users\gurul\source\repos\OCRReader\OCRReader\obj\Debug\netstandard2.1\OCRReader.csproj.CopyComplete
+C:\Users\gurul\source\repos\OCRReader\OCRReader\obj\Debug\netstandard2.1\OCRReader.dll
+C:\Users\gurul\source\repos\OCRReader\OCRReader\obj\Debug\netstandard2.1\OCRReader.pdb
