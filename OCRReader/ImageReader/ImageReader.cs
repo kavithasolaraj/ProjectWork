@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using OCRReader;
 using System.Threading.Tasks;
 using log4net;
+using System.Xml.Linq;
 
 namespace ImageReader
 {
@@ -12,7 +13,7 @@ namespace ImageReader
     {
         public readonly List<string> ImageExtensions = new List<string> { ".JPG", ".TIFF", ".BMP", ".GIF", ".PNG" };
         public readonly List<string> PdfExtensions = new List<string> { ".PDF" };
-        public OCRReaderEngine ocr = new OCRReaderEngine();
+        public OCRReaderEngine ocr = new OCRReaderEngine();        
         public string result = null;
         public static readonly ILog log = LogManager.GetLogger(typeof(ImageReader));
         public Dictionary<string, string> langDict = new Dictionary<string, string>();
@@ -36,7 +37,7 @@ namespace ImageReader
                 {
                     if (isIamgeFile)
                     {
-                        result = Task.Run(async () => await ocr.ImageReaderAsync(fileName, langDict[SrcLanguage])).Result;
+                        result = Task.Run(async () => await ocr.ImageReaderAsync(fileName, langDict[SrcLanguage] , true)).Result;
                     }
                     else if (isPdf)
                     {
@@ -45,14 +46,14 @@ namespace ImageReader
                     else
                     {
                         MessageBox.Show("Pls upload a valid image or Pdf file.", "InvalidFile", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    }
+                    }                    
                     printBox.Text = result.ToString();
-                    log.Info(string.Format("Processing FileName:{0} completed", fileName));
+                    log.Info(string.Format("Processing FileName:{0} completed", fileName));                    
                 }
                 catch (Exception ex)
                 {
                     string msg = string.Format("Processing FileName:{0} failed : {1} ", fileName, ex.Message);
-                    throw ex;
+                    printBox.Text = msg;
                 }
             }
         }
