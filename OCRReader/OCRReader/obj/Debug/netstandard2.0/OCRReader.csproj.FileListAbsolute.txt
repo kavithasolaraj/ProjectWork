@@ -10,3 +10,16 @@ C:\Users\gurul\source\repos\OCRReader\OCRReader\obj\Debug\netstandard2.0\OCRRead
 C:\Users\gurul\source\repos\OCRReader\OCRReader\obj\Debug\netstandard2.0\OCRReader.csproj.CopyComplete
 C:\Users\gurul\source\repos\OCRReader\OCRReader\obj\Debug\netstandard2.0\OCRReader.dll
 C:\Users\gurul\source\repos\OCRReader\OCRReader\obj\Debug\netstandard2.0\OCRReader.pdb
+C:\Users\gurul\GIT\OCRReader\OCRReader\bin\Debug\netstandard2.0\OCRReader.deps.json
+C:\Users\gurul\GIT\OCRReader\OCRReader\bin\Debug\netstandard2.0\OCRReader.dll
+C:\Users\gurul\GIT\OCRReader\OCRReader\bin\Debug\netstandard2.0\OCRReader.pdb
+C:\Users\gurul\GIT\OCRReader\OCRReader\bin\Debug\netstandard2.0\System.Runtime.WindowsRuntime.dll
+C:\Users\gurul\GIT\OCRReader\OCRReader\bin\Debug\netstandard2.0\Windows.Foundation.FoundationContract.winmd
+C:\Users\gurul\GIT\OCRReader\OCRReader\bin\Debug\netstandard2.0\Windows.winmd
+C:\Users\gurul\GIT\OCRReader\OCRReader\bin\Debug\netstandard2.0\System.Runtime.WindowsRuntime.xml
+C:\Users\gurul\GIT\OCRReader\OCRReader\obj\Debug\netstandard2.0\OCRReader.AssemblyInfoInputs.cache
+C:\Users\gurul\GIT\OCRReader\OCRReader\obj\Debug\netstandard2.0\OCRReader.AssemblyInfo.cs
+C:\Users\gurul\GIT\OCRReader\OCRReader\obj\Debug\netstandard2.0\OCRReader.csproj.CopyComplete
+C:\Users\gurul\GIT\OCRReader\OCRReader\obj\Debug\netstandard2.0\OCRReader.dll
+C:\Users\gurul\GIT\OCRReader\OCRReader\obj\Debug\netstandard2.0\OCRReader.pdb
+C:\Users\gurul\GIT\OCRReader\OCRReader\obj\Debug\netstandard2.0\OCRReader.csprojAssemblyReference.cache

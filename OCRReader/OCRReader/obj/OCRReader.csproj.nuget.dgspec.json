@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gurul\\source\\repos\\OCRReader\\OCRReader\\OCRReader.csproj": {}
+    "C:\\Users\\gurul\\GIT\\OCRReader\\OCRReader\\OCRReader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gurul\\source\\repos\\OCRReader\\OCRReader\\OCRReader.csproj": {
+    "C:\\Users\\gurul\\GIT\\OCRReader\\OCRReader\\OCRReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gurul\\source\\repos\\OCRReader\\OCRReader\\OCRReader.csproj",
+        "projectUniqueName": "C:\\Users\\gurul\\GIT\\OCRReader\\OCRReader\\OCRReader.csproj",
         "projectName": "OCRReader",
-        "projectPath": "C:\\Users\\gurul\\source\\repos\\OCRReader\\OCRReader\\OCRReader.csproj",
+        "projectPath": "C:\\Users\\gurul\\GIT\\OCRReader\\OCRReader\\OCRReader.csproj",
         "packagesPath": "C:\\Users\\gurul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gurul\\source\\repos\\OCRReader\\OCRReader\\obj\\",
+        "outputPath": "C:\\Users\\gurul\\GIT\\OCRReader\\OCRReader\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -47,6 +47,14 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
             }
           },
           "imports": [
